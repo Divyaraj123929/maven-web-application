@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Canarabank Releases Nexus Repository</name>
-	      <url>http://172.31.44.98:8081/repository/canarabank-release/</url>
+	      <url>http://18.143.151.81:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Carabank Snapshot Nexus Repository </name>
-	      <url>http://172.31.44.98:8081/repository/canarabank-snapshot/</url>
+	      <url>http://18.143.151.81:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
